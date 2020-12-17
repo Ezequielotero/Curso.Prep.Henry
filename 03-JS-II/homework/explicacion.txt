@@ -1,0 +1,4 @@
+Los bucles for sirven para hacer que se repita una accion mientras que expresion condicional sea true una vez que deja de hacerlo se deja de repetir el bucle.
+El operador && es un operador que evalua ambas expresiones que se planteen y en caso de ser verdaderas devolveria "true" y en su defecto si una o ambas son falsas devolveria "false"
+Asimismo || es una operador que devulve "true" si ambas o al menos una de las expresiones es "true" y en su defecto si ambas expresiones osn falsas devulve "false"
+El operador ! es un operador que devulve el valor booleano contrario al que deberia es decir el opuesto.

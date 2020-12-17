@@ -1,0 +1,2 @@
+Los arrays entre otras cosas sirven para crear matrices que funcionan como contenedores de informacion y de esta forma tener los datos mas ordenados y que en algun punto si asi se desea se puedan ir reemplazando los valores adecuandose a lo necesitado.
+Los bucles for en arrays sirve para iterar sobre todo los elementos de la matriz y accediendo al indice podemos recorrer todos los elemntos de un array 

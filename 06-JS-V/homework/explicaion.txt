@@ -1,0 +1,2 @@
+Los prototipos son una propiedad de las clases que sirve para guardar funciones y que no las tenga que repetir en cada objetos nuevo que se crea , esto lleva a que no se ocupe tanta memoria.
+Los constructores sirven para que no se repita codigo y que de alguna forma ese objeto sea "prototipo" de un posible objeto en el futuro y este mismo herede propiedas del primero . Ya que si tuviera que escribir todo el codigo de nuevo hay mas chances de equivocarse y ocupa mas espacio en la memoria.
