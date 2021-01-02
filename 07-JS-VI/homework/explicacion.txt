@@ -1,0 +1,1 @@
+las funciones callbacks sirven para llamar otra funcion dentro de una funcion y poder pasarle el argumento que querramos 
